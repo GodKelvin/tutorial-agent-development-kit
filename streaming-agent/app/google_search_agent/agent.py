@@ -7,7 +7,7 @@ root_agent = Agent(
    # The Large Language Model (LLM) that agent will use.
    # Please fill in the latest model id that supports live from
    # https://adk.dev/live/get-started/streaming-python/#supported-models
-   model="...",
+   model="gemini-3.8-live",
    # A short description of the agent's purpose.
    description="Agent to answer questions using Google Search.",
    # Instructions to set the agent's behavior.
